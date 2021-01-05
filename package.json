@@ -1,0 +1,17 @@
+{
+  "name": "upread",
+  "version": "0.1.0",
+  "description": "A backend that tracks and recommends currently owned books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "books"
+  ],
+  "author": "Iftikhar Khan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
